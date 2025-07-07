@@ -1,0 +1,12 @@
+#root {margin:0 auto;}
+#wrap {max-width:420px; background-color:#eee; padding:10px;}
+#wrap * {color:#000;}
+#wrap > h1 {font-size:1.7rem; text-align:center;}
+#wrap main {}
+#wrap main > h1 {display:none;}
+#wrap main p {font-size:0.875rem;}
+#wrap main p {font-size:0.875rem;}
+#wrap main ul {}
+#wrap main ul li {font-size:0.875rem;}
+#wrap main p {width:420px;}
+#wrap main p img {width:100%;}
